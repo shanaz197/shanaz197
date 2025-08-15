@@ -1,8 +1,9 @@
 <div align="center">
   <h1><b> Hey there, feature friend! </b></h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving hand gif"/>
-  <p>I'm <b>Shanaz</b>, from <b>Kurdistan</b>, with a rich background in <b>Graphic Design, Teaching, Data Analysis, DevOps, and BI solutions</b>.</p>
-  BSc – Computer Science | BI Analyst | DevOps | Educator
+
+BSc – Computer Science | BI Analyst | DevOps | Educator
+
 </div>
 
 <div align="center">
