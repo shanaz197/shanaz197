@@ -1,33 +1,40 @@
 <div align="center">
-<h1><b> Hey there, feature friend! 👋 </b></h1>
-
-I'm **Shanaz**, I am from **Kurdistan** with a rich background in **Graphic Design, Teaching, Data Analysis, DevOps, and BI solutions**.
-
-## 📈 GitHub Stats
+  <h1><b> Hey there, feature friend! </b></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving hand gif"/>
+  <p>I'm <b>Shanaz</b>, from <b>Kurdistan</b>, with a rich background in <b>Graphic Design, Teaching, Data Analysis, DevOps, and BI solutions</b>.</p>
+  BSc – Computer Science | BI Analyst | DevOps | Educator
+</div>
 
 <div align="center">
     <img src="https://img.icons8.com/fluency/96/combo-chart.png" alt="GitHub Stats Icon" width="80"/><br>
     <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=blue&style=flat" alt="Profile Views"/>
 </div>
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge)](https://shanaz197.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanaz-karim-409bb279)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cxr.fw.3)
 
-<!-- [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-id)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Animation"/>
+</div>
 
 ## </div>
 
-## 👩‍💻 Professional Experience
-
+<!-- <div align="center">
+<h1> 👩‍💻 Professional Experience<h1>
+</div>
 ### <img src="iQ Online Logo.svg"> iQ Group Company
 
 - **BI Analyst** – Commercial Department (Jan 2024 – Present, Part-Time)
 - **Data Analyst** – Commercial Department (Dec 2021 – Dec 2023)
 - **Net DevOps Engineer** – Access Network Department (Sep 2021 – Dec 2021)
 - **Application Support Engineer** – DevOps (Nov 2020 – Sep 2021)
-- Assisted Application Support until Dec 2023
+  Assisted Application Support until Dec 2023 -->
 
 ---
 
@@ -70,5 +77,7 @@ I'm **Shanaz**, I am from **Kurdistan** with a rich background in **Graphic Desi
 | [Data Analysis Toolkit](https://github.com/YourUsername/Data-Analysis-Toolkit) | Scripts & templates for efficient data analysis in Python |
 | [Power BI Dashboards](https://github.com/YourUsername/PowerBI-Dashboards)      | Interactive BI dashboards for business insights           |
 | [DevOps Scripts](https://github.com/YourUsername/DevOps-Scripts)               | Automation scripts for deployment & network monitoring    |
+
+---
 
 ---
