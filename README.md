@@ -72,11 +72,11 @@
 
 ### 🗂 Featured Projects
 
-| Project                                                                        | Description                                               |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| [Data Analysis Toolkit](https://github.com/YourUsername/Data-Analysis-Toolkit) | Scripts & templates for efficient data analysis in Python |
-| [Power BI Dashboards](https://github.com/YourUsername/PowerBI-Dashboards)      | Interactive BI dashboards for business insights           |
-| [DevOps Scripts](https://github.com/YourUsername/DevOps-Scripts)               | Automation scripts for deployment & network monitoring    |
+| Project               | Description                                               |
+| --------------------- | --------------------------------------------------------- |
+| Data Analysis Toolkit | Scripts & templates for efficient data analysis in Python |
+| Power BI Dashboards   | Interactive BI dashboards for business insights           |
+| DevOps Scripts        | Automation scripts for deployment & network monitoring    |
 
 ---
 
